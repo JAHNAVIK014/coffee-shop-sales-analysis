@@ -9,10 +9,9 @@ Data transformation using ETL process
 Star schema data modeling
 Business insights generation using SQL
 Interactive dashboard for visualization
+
 🎯 Objective
-
 To analyze coffee shop sales data and generate actionable insights such as:
-
 Revenue trends
 Store performance
 Product demand
@@ -20,11 +19,12 @@ Customer buying patterns
 🛠️ Tools & Technologies
 SQL (MySQL)
 Power BI
+
+
 Data Modeling (Star Schema)
+
 🧱 Data Model
-
 The project follows a Star Schema:
-
 Fact Table
 sales
 Dimension Tables
@@ -32,12 +32,13 @@ stores
 products
 categories
 transactions
+
+
 🔄 ETL Process
 
 Implemented in ETL_Coffee_Shop.sql
 
 Steps:
-
 Created database and staging table (sales_raw)
 Cleaned and structured raw data
 Created dimension tables:
@@ -50,8 +51,8 @@ Applied:
 Duplicate removal
 Null handling
 Data validation checks
-📊 Business Analysis
 
+📊 Business Analysis
 Performed in Sales_Analysis.sql
 
 Key KPIs:
