@@ -77,12 +77,15 @@ Key KPIs:
 
 
 🚀 How to Use
+
 1️⃣ Run ETL Script
-Run ETL_Coffee_Shop.sql
+- Run ETL_Coffee_Shop.sql
+
 2️⃣ Run Analysis Queries
-Run Sales_Analysis.sql
+- Run Sales_Analysis.sql
+
 3️⃣ Open Dashboard
-Open .pbix file in Power BI
+- Open .pbix file in Power BI
 Explore interactive visuals
 
 
@@ -97,17 +100,20 @@ Coffee-Shop-Sales-Analysis/
 
 
 🌟 Highlights
-End-to-end data project
-Real-world business insights
-Clean data modeling
-Interactive dashboard design
+- End-to-end data project
+- Real-world business insights
+- Clean data modeling
+- Interactive dashboard design
 
 
 📌 Future Improvements
-Add customer segmentation
-Predict sales trends using ML
-Deploy dashboard online
+- Add customer segmentation
+- Predict sales trends using ML
+- Deploy dashboard online
 
 
 👩‍💻 Author
-Jahnavi
+Jahnavi K
+
+
+
