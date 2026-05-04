@@ -1,4 +1,4 @@
-☕ Coffee Shop Sales Analysis
+## ☕ Coffee Shop Sales Analysis
 
 📌 Project Overview
 This project presents an end-to-end data analysis pipeline for a coffee shop business using SQL and Power BI.
