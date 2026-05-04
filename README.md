@@ -1,37 +1,38 @@
 ☕ Coffee Shop Sales Analysis
-📌 Project Overview
 
+📌 Project Overview
 This project presents an end-to-end data analysis pipeline for a coffee shop business using SQL and Power BI.
 
 It includes:
 
-Data transformation using ETL process
-Star schema data modeling
-Business insights generation using SQL
-Interactive dashboard for visualization
+- Data transformation using ETL process
+- Star schema data modeling
+- Business insights generation using SQL
+- Interactive dashboard for visualization
 
 🎯 Objective
 To analyze coffee shop sales data and generate actionable insights such as:
-Revenue trends
-Store performance
-Product demand
-Customer buying patterns
+- Revenue trends
+- Store performance
+- Product demand
+- Customer buying patterns
+
 🛠️ Tools & Technologies
-SQL (MySQL)
-Power BI
-
-
-Data Modeling (Star Schema)
+- SQL (MySQL)
+- Power BI
+- Data Modeling (Star Schema)
 
 🧱 Data Model
 The project follows a Star Schema:
+
 Fact Table
-sales
+- sales
+
 Dimension Tables
-stores
-products
-categories
-transactions
+- stores
+- products
+- categories
+- transactions
 
 
 🔄 ETL Process
@@ -39,34 +40,31 @@ transactions
 Implemented in ETL_Coffee_Shop.sql
 
 Steps:
-Created database and staging table (sales_raw)
-Cleaned and structured raw data
-Created dimension tables:
-Stores
-Categories
-Products
-Transactions
-Built fact table (sales)
+- Created database and staging table (sales_raw)
+- Cleaned and structured raw data
+- Created dimension tables:
+  - Stores
+  - Categories
+  - Products
+  - Transactions
+- Built fact table (sales)
+  
 Applied:
-Duplicate removal
-Null handling
-Data validation checks
+- Duplicate removal
+- Null handling
+- Data validation checks
 
 📊 Business Analysis
 Performed in Sales_Analysis.sql
 
 Key KPIs:
-
-Total Revenue
-Revenue by Store
-Product Category Performance
-Monthly Revenue Trend
-Hourly Sales Trend
-Top Products per Category
-Average Order Value
-📈 Dashboard Preview
-
-
+- Total Revenue
+- Revenue by Store
+- Product Category Performance
+- Monthly Revenue Trend
+- Hourly Sales Trend
+- Top Products per Category
+- Average Order Value
 
 🔍 Key Insights
 💰 Total Revenue: 698.8K
