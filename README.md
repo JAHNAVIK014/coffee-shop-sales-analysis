@@ -134,7 +134,8 @@ An interactive dashboard was created to visualize key business metrics and trend
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Coffee Shop Dashboard](images/sales_dashboard.png)
+
 
 ---
 
